@@ -8,5 +8,5 @@
 	branch = master
 [submodule "src/themes/default"]
 	path = src/themes/default
-	url = git@github.com:DivanteLtd/vsf-default.git
+	url = git@github.com:adrianmpietrzak/vuesf-theme.git
 	branch = master
